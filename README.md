@@ -5,7 +5,7 @@
 
 ## Description
 
-This is my custom vial firmware for my build of the Endgame keyboard.
+This is my custom [vial](https://github.com/vial-kb) firmware for my build of the [Endgame](https://github.com/OldMan6955/TheEndgame2024) keyboard.
 
 I changed the layout to fix a key selection issue and added the HOLD_ON_OTHER_KEY_PRESS option in the config. See more about this option in the qmk documentation.
 
